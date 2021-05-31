@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+
+p{
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 64pt;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+}
+
+#buttonz{
+    display: inline;
+    padding-left: 600px;
+    justify-content: space-evenly;
+}
+
+ol{
+    color: #707579;
+    text-align: center;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    position: absolute;
+    width: 90%;
+    height: 100px;
+    bottom: 0px;
+    background-color: #f2f2f2;
+    
+
+}
+
+#list{
+    background-color: #f2f2f2;
+}
